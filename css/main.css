@@ -1,0 +1,59 @@
+main{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    width: 100%;
+    margin-bottom: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputs-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10%;
+
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label{
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-bottom: 5px;
+    
+}
+
+form button{
+    background-color:#93bf85;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+form button:hover{
+    background-color:#fff;
+    color: #93bf85;
+}
+
+main #result{
+    font-size: 3.5em;
+    color: #93bf85;
+}
+
+main #result span{
+    font-size: 0.6em;
+    margin-right: 50px;
+    margin-left: 50px; 
+}
