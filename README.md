@@ -1,2 +1,2 @@
 ### Currency-converter
-Projeto predominantemente em javascript realizdado para converter moedas.
+Projeto predominantemente em javascript realizado para converter moedas.
